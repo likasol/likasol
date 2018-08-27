@@ -1,0 +1,7 @@
+Credentials cache: API:AD2951ED-A18A-4D5E-9C78-44AE2572675E
+        Principal: mbenlahs@42.FR
+
+  Issued                Expires               Principal
+Aug 27 16:00:33 2018  Sep  3 16:00:33 2018  krbtgt/42.FR@42.FR
+Aug 27 16:00:34 2018  Sep  3 16:00:33 2018  ldap/ldap-proxy.42.fr@42.FR
+Aug 27 16:00:35 2018  Sep  3 16:00:33 2018  HTTP/student-storage-2.42.fr@42.FR
